@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    width: 575px;
+    height: 385px;
+    background: #1B244A;
+}
+
+.heading{
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 90%;
+    text-align: center;
+    color: #EEEEEE;
+}
+
+.score {
+    font-family: 'Lucida Console';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 141%;
+    text-align: center;
+    color: #F94F6D;
+    background: #0a0001;
+}
+
+button {
+    font-family: 'Lucida Console';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 155%;
+    text-align: center;
+    color: #367588;
+}
+
+#reset-btn {
+    font-family: 'Trebuchet MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 155%;
+    text-align: center;
+    color: #000000;
+    background: #7ddbb0;
+}
+
+
+
